@@ -1,0 +1,5 @@
+## Ringkasan Proyek
+Kehidupan masyarakat yang berdampingan dengan alam atau tutupan lahan alami seringkali terjadi perubahan yang dinamis untuk kebutuhan dan/atau kepentingan tertentu. Hal tersebut menjadi dasar adanya perubahan penggunaan dan tutupan lahan dari fungsi sebelumnya dan perlu dilakukan identifikasi perubahan tutupan lahan pada periode tersebut. Proyek dilakukan untuk mengidentifikasi perubahan tutupan lahan pada tahun 2019, 2022, dan 2025 dengan kelas tutupan lahan terdiri dari vegetasi, perkebunan, lahan terbuka, perairan, dan bangunan. Proses identifikasi dilakukan menggunakan machine learning terbimbing dengan dataset setiap kelas tersebut pada waktu yang telah ditentukan. Hasil identifikasi perubahan penggunaan dan tutupan lahan terdapat perubahan pada setiap kelas yang telah disebutkan. Berdasarkan hasil analisis hasil perubahan luasan tutupan lahan pada kelima kelas objek, kelas perkebunan dan bangunan memiliki peningkatan yang linear dari tahun 2019 hingga 2025.
+
+## Hasil Proyek
+![Hasil Pemetaan Perubahan Penggunaan Lahan Aceh Tamiang](Images/Hasil_Yusuf_lulc.jpeg)
